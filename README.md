@@ -1,4 +1,4 @@
-#Practice with React
+Practice with React
 
 Because football started yesterday, and I need a good excuse to learn React.js.
 
